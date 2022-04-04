@@ -3,22 +3,30 @@ body{
 	text-align: left;
 }
 
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
 .topnav ul {
+  float: left;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  background-color: #333;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
 }
 
+.dropdown{
+   float: left;
+   overfloe: hidden;
+
 .topnav li {
   float: left;
 }
 
-.topnav li a, .dropbtn {
+.topnav li a, .dropdown .dropbtn {
   display: block;
   color: white;
   text-align: center;
@@ -56,7 +64,9 @@ li.dropdown {
   text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover {
+   background-color: #f1f1f1;
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
