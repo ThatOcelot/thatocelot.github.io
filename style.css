@@ -3,11 +3,8 @@ body{
 	text-align: center;
 }
 
-li {
+nav{
   display: inline;
-}
-
-ul {
   background-color: #dddddd;
 }
 
