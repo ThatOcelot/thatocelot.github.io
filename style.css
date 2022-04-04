@@ -5,7 +5,8 @@ body{
 
 nav{
   display: inline;
-  background-color: #dddddd;
+  background-color: #dddddd
+  text-align: left;
 }
 
 .active {
