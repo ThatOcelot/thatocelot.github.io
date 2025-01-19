@@ -8,6 +8,4 @@ I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity studen
 
 ### Learning
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/2550px-Flag_of_Israel.svg.png" alt="Hebrew (עברית)" height="50"/>](https://en.wikipedia.org/wiki/Hebrew_language)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2550px-Flag_of_Portugal.svg.png" alt="Portuguese (Português)" height="50"/>](https://en.wikipedia.org/wiki/Portuguese_language)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/2550px-Bandera_de_Espa%C3%B1a.svg.png" alt="Spanish (Español)" height="50"/>](https://en.wikipedia.org/wiki/Spanish_language)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/2560px-Flag_of_the_People%27s_Republic_of_China.svg.png" alt="Chinese (中文)" height="50"/>](https://en.wikipedia.org/wiki/Chinese_language)
