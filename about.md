@@ -1,6 +1,6 @@
 # About me
 ## Who I am
-I am Anthony, also known as ThatOcelot. I am an 18 year old cybersecurity student currently residing in Orlando, Florida.
+I am Anthony, also known as ThatOcelot. I am an 19 year old cybersecurity student currently residing in Orlando, Florida.
 
 ## What I speak
 ### Fluent
